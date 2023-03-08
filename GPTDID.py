@@ -80,7 +80,7 @@ def send_audio_to_did_api(audio_file_path):
             "fluent": "false",
             "pad_audio": "0.0"
         },
-        "source_url": "https://cdn.discordapp.com/attachments/1006590047987961906/1080465497197387936/okarin_portrait_of_Indian_village_man_at_a_gathering_in_the_for_3f6b864f-9f79-485f-84f5-5943c50ee152.png"
+        "source_url": "Portrait.png"
     }
 
     headers = {
