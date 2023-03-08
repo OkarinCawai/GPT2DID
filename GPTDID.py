@@ -1,13 +1,7 @@
 import os
-import io
 import openai
 import speech_recognition as sr
-from elevenlabslib import ElevenLabsUser
 import requests
-import sounddevice as sd
-import soundfile as sf
-import numpy as np
-import time
 import base64
 from dotenv import load_dotenv
 load_dotenv()
